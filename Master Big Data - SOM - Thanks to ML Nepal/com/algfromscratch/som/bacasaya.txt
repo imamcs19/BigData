@@ -1,0 +1,1 @@
+Membuat File .py As Lib. from Scratch
